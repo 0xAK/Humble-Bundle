@@ -1,0 +1,12 @@
+The script extracts the following information for each bundle in the games page of Humble Bundle's website and save the results in a CSV file : 
+- Bundle Name
+- Bundle Title
+- Bundle Description
+- Sold
+- Redeem on Steam
+- Platform / OS
+- Charity Amount Raised
+- Bundle Value
+- Countdown Value
+- Price
+- Number of Items
